@@ -23,7 +23,7 @@ const MarketingPage = () =>{
                     </div>
                         <h1 className="text-3xl md:text-6xl text-center
                         text-neutral-800 mb-6">
-                            Taskify help team move
+                            Ginger help team move
                         </h1>
                         <div className="text-3xl md:-6xl bg-gradient-to-r
                         from-fuchsia-600 to-pink-600 text-white px-4 p-2 rounded-md pd-4
@@ -43,7 +43,7 @@ const MarketingPage = () =>{
                     </div>
                     <Button className="mt-6  size=lg aschild">
                         <Link href="/sign-up">
-                            Get Taskify for free
+                            Get Ginger for free
                         </Link>
                     </Button>
         </div>
